@@ -2,4 +2,4 @@
 
 Este es mi curriculum
 
-![](img/Miguel A. Flores - CV.pdf)
+[](img/Miguel A. Flores - CV.pdf)
